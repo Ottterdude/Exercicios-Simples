@@ -1,1 +1,1 @@
-# Exercicios-Simples
+# Exercicios-Simples-Python
